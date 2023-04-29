@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+}
+.App {
+  text-align: center,
+
+}
+
+.manik{
+  padding:0px,
+  
+}
+
+.deep10{
+  background-image:url('https://media.istockphoto.com/id/914814288/photo/european-restaurant-in-bright-colors.jpg?s=612x612&w=0&k=20&c=EI3EnbziQDYPH9ijOBOqbpXG88vAcInmXh8LctP_OSY=' );
+ background-repeat:no-repeat;
+ background-size: 100% 100%;
+ height:700px;
+}
